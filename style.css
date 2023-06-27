@@ -1,0 +1,22 @@
+body{
+margin: 50px;
+padding: 50px 100px;
+border: 1px solid black;
+background-color: rgb(255, 255, 197);
+
+}
+
+img{
+
+    width: 100%;
+}
+
+.textoCentrado {
+
+    text-align: center;
+}
+
+.textoColor {
+
+    color: red;
+}
